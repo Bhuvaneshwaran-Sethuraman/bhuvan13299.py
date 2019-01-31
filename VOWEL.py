@@ -6,5 +6,5 @@ if x=="a" or x=="e" or x=="i" or x=="u" or x=="o":
 elif:
     print("Consonant")
 else:
-    print("Invalid")
+    print("invalid")
 

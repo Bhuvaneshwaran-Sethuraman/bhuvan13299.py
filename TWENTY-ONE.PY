@@ -1,3 +1,4 @@
+#BHUVANESHWARAN
 n,a,d=map(int,input().split())
 c=0
 g=0
